@@ -21,11 +21,11 @@ We build intelligent hardware and software systems that bridge practical enginee
 
 ## Featured Projects
 
-### ECG Emotion Analysis System
+### ECG Emotion Analysis System (Flagship)
 
 AI-powered embedded healthcare system for ECG monitoring and intelligent emotion analysis.
 
-### Portable Lightweight Laptop Powerbank
+### Portable Lightweight Laptop Powerbank (Flagship)
 
 Portable high-capacity power solution designed for efficient laptop charging and mobility.
 
